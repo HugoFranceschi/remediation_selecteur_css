@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    font-weight: 900;
+}
+p{
+    color: green;
+}
+a{
+    color: red;
+}
+p.important {
+    font-weight: 900;
+}
+p#unique{
+    color: blueviolet;
+}

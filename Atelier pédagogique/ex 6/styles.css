@@ -1,0 +1,7 @@
+p{
+    color: green;
+}
+
+h3 + p{
+    font-style: italic;
+}
